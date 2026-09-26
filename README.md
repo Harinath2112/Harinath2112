@@ -6,11 +6,11 @@ Building intelligent systems with AI, automation, and data-driven decision makin
 </p>
 
 <p align="center">
-  <a href="https://harinath-ai-spark.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0b1020?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/harinathkurapati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kurapatiharinath5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/aCPgLfsCWw/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/hari6733"><img src="https://img.shields.io/badge/CodeChef-1432%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://harinath-ai-spark.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harinathkurapati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kurapatiharinath5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aCPgLfsCWw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/hari6733"><img src="https://img.shields.io/badge/CodeChef-6C3483?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,12 +25,14 @@ I'm a B.Tech (Computer Science & Design) student at **CMR College of Engineering
 - 🎓 Seeking **SDE, Data Analytics, and Machine Learning** internship / full-time opportunities
 - 📫 Reach me at **kurapatiharinath5@gmail.com**
 
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://harinath-ai-spark.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/harinathkurapati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kurapatiharinath5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://harinath-ai-spark.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harinathkurapati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kurapatiharinath5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's build something intelligent together 🚀</i></p>
