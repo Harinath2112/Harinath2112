@@ -17,7 +17,7 @@ Building intelligent systems with AI, automation, and data-driven decision makin
 
 ### 🚀 About Me
 
-I'm a B.Tech (Computer Science & Design) student at **CMR College of Engineering & Technology**, specializing in **AI, Machine Learning, NLP, RPA, and Data Analytics**. I enjoy turning messy, real-world problems into end-to-end pipelines — from data preprocessing to trained models to interactive dashboards.
+I'm a B.Tech (Computer Science & Data Science) student at **CMR College of Engineering & Technology**, specializing in **AI, Machine Learning, NLP, RPA, and Data Analytics**. I enjoy turning messy, real-world problems into end-to-end pipelines — from data preprocessing to trained models to interactive dashboards.
 
 - 🔭 Currently building full-stack apps, ML pipelines, and RPA-driven automation systems
 - 🌱 Exploring agentic automation, generative AI, and cloud fundamentals
