@@ -21,7 +21,7 @@ I'm a B.Tech (Computer Science & Data Science) student at **CMR College of Engin
 
 - 🔭 Currently building full-stack apps, ML pipelines, and RPA-driven automation systems
 - 🌱 Exploring agentic automation, generative AI, and cloud fundamentals
-- 💡 Delivered a **99.49% validated accuracy** NLP fake-news detector and a **95% reduction** in manual research time via an automated competitor-intelligence dashboard
+- 💡 Delivered a **93.49% validated accuracy** NLP fake-news detector and a **95% reduction** in manual research time via an automated competitor-intelligence dashboard
 - 🎓 Seeking **SDE, Data Analytics, and Machine Learning** internship / full-time opportunities
 - 📫 Reach me at **kurapatiharinath5@gmail.com**
 
