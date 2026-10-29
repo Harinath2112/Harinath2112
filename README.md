@@ -1,30 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=210&section=header&text=Harinath%20Kurapati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20RPA%20Developer&descAlignY=60&descSize=18" alt="Harinath Kurapati" />
-</p>
+# Hi, I'm Harinath Kurapati 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=760&lines=Full-stack+apps+with+React+%2B+Django;Data+pipelines+and+dashboards+with+SQL%2C+Python+%26+Power+BI;Automation+with+UiPath+RPA;200%2B+LeetCode+problems+solved+in+Java" alt="Typing animation" />
-</p>
+**Aspiring Software Engineer | Data Analytics & Automation | B.Tech CSE (Data Science), Class of 2027**
 
-<p align="center">
-  <a href="https://harinath-ai-spark.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/harinathkurapati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kurapatiharinath5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/aCPgLfsCWw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/hari6733"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</p>
+I build full-stack applications, data pipelines, and intelligent automation systems. My work spans **Java and DSA**, **React and Django**, **SQL and analytics**, and **Python-based NLP and RPA**.
 
----
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (Data Science), CMR College of Engineering & Technology | **CGPA: 8.37/10**
+- 💻 **Primary interests:** Software engineering, backend development, data analytics, and automation
+- 🧩 **Competitive programming:** 415+ LeetCode problems and 1,800+ CodeChef problems solved (previously reported counts)
+- 🎯 **Seeking:** Internships and 2027 graduate opportunities in Software Engineering, Data Analytics, and Automation
+- 📫 **Email:** [kurapatiharinath5@gmail.com](mailto:kurapatiharinath5@gmail.com)
 
-## 👋 About me
+## 🛠️ Technical Skills
 
-Final-year **B.Tech (CSE – Data Science)** student at **CMR College of Engineering & Technology** (class of 2027, CGPA 8.37). I like turning messy, real-world problems into working systems: full-stack apps, data pipelines with dashboards, and automation that removes manual work.
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, Python, JavaScript, SQL |
+| **Software Development** | React, Django, Django REST Framework, REST APIs, Spring Boot, JWT |
+| **Databases** | MySQL, PostgreSQL, SQLite |
+| **Data & Analytics** | Pandas, NumPy, Power BI, Tableau, Excel, Streamlit |
+| **AI & Automation** | scikit-learn, NLP, sentiment analysis, UiPath, Robot Framework |
+| **Cloud & Tools** | Google Cloud, AWS and Azure (foundational), Git, GitHub |
+| **Core CS** | Data Structures & Algorithms, OOP, OS, Computer Networks, DBMS |
 
-| | |
-|---|---|
-| 🔭 **Building** | An inventory and warehouse management system with React + Django |
-| 🌱 **Learning** | Agentic automation, generative AI and cloud (Google Cloud, AWS, Azure basics) |
-| 🎯 **Looking for** | Full-time **Software Engineer**, **Data Analyst** or **RPA Developer** roles (2027 batch) |
-| 📫 **Reach me** | kurapatiharinath5@gmail.com |
+## 🚀 Featured Projects
 
----
+### 📦 [Enterprise WMS & Inventory Control Hub](https://github.com/Harinath2112/Enterprise-WMS-Inventory-Control-Hub)
+
+Full-stack warehouse and inventory management system using **React 19, Django REST Framework, and MySQL**. Includes JWT authentication, inventory operations, audit logs, dashboards, and PDF/Excel reporting.
+
+**[Live Demo](https://enterprise-wms-inventory-control-hu.vercel.app/)** · **[Source Code](https://github.com/Harinath2112/Enterprise-WMS-Inventory-Control-Hub)**
+
+### 📊 [MediaIntel — YouTube Competitive Intelligence & Audience Analytics](https://github.com/Harinath2112/MediaIntel)
+
+YouTube analytics and competitive intelligence platform built with **Python, SQL, PostgreSQL, Streamlit, and NLP**. It supports video and channel analysis, audience sentiment and aspect insights, anomaly detection, topic recommendations, and automated reporting workflows.
+
+**[Live Demo](https://mediaintel-team21.streamlit.app/)** · **[Source Code](https://github.com/Harinath2112/MediaIntel)**
+
+### 🤖 [Social Media Intelligence Platform](https://github.com/Harinath2112/SocialMediaIntelligencePlatform)
+
+Automated YouTube analytics pipeline integrating **UiPath, Python, MySQL, and Power BI** for data collection, engagement analysis, and visualization.
+
+### 📰 [StudentGuard — Fake News Detection](https://github.com/Harinath2112/StudentGuard-FakeNews-Detector)
+
+NLP-based news classifier using **TF-IDF** and a **Passive-Aggressive Classifier**; achieved approximately **93% accuracy** on a stratified validation split.
+
+## 🏆 Learning & Achievements
+
+- **LeetCode:** 415+ problems solved (previously reported)
+- **CodeChef:** 1,800+ problems solved; maximum rating **1432** (previously reported)
+- **Salesforce:** Certified Agentforce Specialist
+- **Google Cloud:** Associate Cloud Engineer and Generative AI Leader
+- **UiPath Academy:** Agentic Automation Developer Associate **training completed** (not a professional exam certification)
+
+## 🔗 Connect
+
+[**Portfolio**](https://harinath-ai-spark.lovable.app/) · [**LinkedIn**](https://www.linkedin.com/in/harinathkurapati/) · [**LeetCode**](https://leetcode.com/u/aCPgLfsCWw/) · [**CodeChef**](https://www.codechef.com/users/hari6733) · [**Email**](mailto:kurapatiharinath5@gmail.com)
